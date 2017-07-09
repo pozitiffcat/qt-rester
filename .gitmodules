@@ -1,0 +1,3 @@
+[submodule "rester"]
+	path = rester
+	url = https://github.com/pozitiffcat/rester.git
